@@ -5,6 +5,13 @@
 
 This project contains a Form example from [elm-lang.org]("https://guide.elm-lang.org/architecture/forms.html"). I have add more validations on the password field to be longer than 8 charactors.
 
+# learning objective
+- Anonymous function
+- List manipulation
+- List map function
+- Pipe operators
+- Getting more familiar with Elm
+
 # how to run it
-- elm make src/Form.elm
+- in terminal `elm make src/Form.elm`
 - open browser on ./index.html
